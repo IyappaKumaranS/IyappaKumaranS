@@ -1,69 +1,69 @@
-<h1 align="center">✨ Hey there, I'm <span style="color:#fca311;">Iyappa Kumaran</span> 👋</h1>
+<h1 align="center">👋 Hey there, I'm Iyappa Kumaran</h1>
 
 <p align="center">
-🎓 AI & Data Science Student · 💻 Full-Stack Dev · 🎨 UI/UX Designer · 🤖 AI Explorer  
+🎓 AI & Data Science Student • 💻 Full-Stack Dev • 🎨 UI/UX Designer • 🤖 AI Explorer  
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Crafting+AI-powered+experiences;Designing+pixel-perfect+interfaces;Building+smart%2C+real-time+solutions;Coding+with+creativity+%26+purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Building+real-time+AI+solutions;Designing+intuitive+user+experiences;Blending+code+%2B+creativity" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 What I Do
 
-- 🌍 Build lightning-fast, dynamic websites using **MERN Stack**
-- ✨ Create aesthetic, user-first designs in **Figma**, **Framer**, & **Adobe XD**
-- 🤖 Develop intuitive **AI tools** that solve real-world problems
-- 📊 Lead prompt-to-dashboard projects like **Lumia.AI**
-- 🧪 Tinker with **ML**, **DL**, and **LLMs** to push the limits of innovation
+- 🌐 Craft responsive, dynamic websites with the **MERN Stack**
+- 🎨 Design sleek UI & prototypes with **Figma**, **Framer**, & **Adobe XD**
+- 🤖 Develop real-time **AI tools** solving everyday problems
+- 📊 Build prompt-to-dashboard apps like **Lumia.AI**
+- 🧪 Experiment with **ML**, **DL**, and **LLMs** for smart automation
 
 ---
 
-## 🧠 Tech Stack & Skills
+## 🧠 Skills & Tech Stack
 
-### 💻 Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+**Languages & Frameworks**  
+![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-000000?style=flat-square&logo=framer&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/AdobeXD-ff61f6?style=flat-square&logo=adobexd&logoColor=white)
+**Design Tools**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/AdobeXD-ff61f6?style=for-the-badge&logo=adobexd&logoColor=white)
 
-### 🧩 Other Skills
-`Python` · `Java` · `SQL` · `Prompt Engineering` · `REST APIs` · `Power BI`
-
----
-
-## 🛠 Tools I Love
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-00979D?style=flat-square&logo=render&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-![Zoho Creator](https://img.shields.io/badge/Zoho_Creator-EA580C?style=flat-square&logo=zoho&logoColor=white)
+**Other Skills**  
+`Python` `Java` `SQL` `Power BI` `Prompt Engineering` `REST APIs` `Git`
 
 ---
 
-## 🌐 Let's Connect
+## ⚙️ Tools & Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Zoho Creator](https://img.shields.io/badge/Zoho%20Creator-ff8000?style=for-the-badge&logo=zoho&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iyappa-kumaran)
-- 📩 iyappakumaranofficial@gmail.com
+- 📩 iyappakumaranofficial@gmail.com  
+- 🌐 Portfolio: _Coming Soon_ 🚧
 
 ---
 
-> 💬 *"Design isn’t just how it looks — it’s how it works and makes people feel."*  
-> 🔥 *On a mission to fuse creativity with cutting-edge tech.*
+> ✨ *"Design isn’t just how it looks — it’s how it works and makes people feel."*  
+> — *Driven by user-first design & real-world impact*
 
 <p align="center">
-  🚀 Let's build the future together. Thanks for visiting!
+  💡 Let's collaborate and create something meaningful!
 </p>
