@@ -56,7 +56,7 @@
 ## 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/iyappa-kumaran)
-- 📩 iyappakumaranofficial@gmail.com  
+- 📩 kumaraniyappa@gmail.com  
 - 🌐 Portfolio: _Coming Soon_ 🚧
 
 ---
